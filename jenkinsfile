@@ -1,4 +1,4 @@
-pipelineC{
+pipeline {
     agent { label 'NODE1' }
     stages {
         stage('vcs') {
