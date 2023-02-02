@@ -33,7 +33,8 @@ configure the hosts
 * playbook
 
 ```
-![preview](hostfile.png)
+* ![preview](hostsfile.png)
+* ![preview](image1.png)
 ## Git 
 create new repository
 [git url] https://github.com/vennela012/jenkinsansible.git)
